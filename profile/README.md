@@ -4,7 +4,7 @@ Ultreon is a development team that mainly focuses on Minecraft mods, but also th
 
 ### Links:
  * [Discord Invite](https://www.discord.gg/WePT9v2CmQ)
- * [Website](https://ultreonteam.tk)
+ * [Website](https://ultreon.github.io)
 
 <!--
 
